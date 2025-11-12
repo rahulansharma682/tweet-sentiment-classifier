@@ -97,7 +97,6 @@ streamlit run app.py
 The app will:
 1. Check for a local model in `./models/tweet-sentiment-classifier/`
 2. If not found, automatically download from Hugging Face Hub (ranashch/tweet-sentiment-classifier)
-3. Launch the web interface at `http://localhost:8501`
 
 ### Using Your Own Model
 
@@ -154,7 +153,8 @@ tweet-sentiment-classifier/
 
 ## 🌐 Deployment
 
-This app is ready to deploy to Streamlit Cloud with zero configuration!
+This app is already deployed in Streamlit Cloud.
+Here is the link: https://tweet-sentiment-classifier.streamlit.app/
 
 ### Quick Deploy to Streamlit Cloud
 
